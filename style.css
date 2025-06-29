@@ -3,7 +3,9 @@ body {
   margin: 0;
   background-color: #f9f9f9;
 }
-
+.site-title {
+  color: green;
+}
 .landing {
   background-image: url('images/landing-bg.jpg');
   background-size: cover;
